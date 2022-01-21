@@ -12,10 +12,18 @@ printTxt("aa");
 function $(elm){
 	switch (elm.charAt(0)) {
 		case "#":
+
 			return elm.getElementalById(elm.replace(0));
 			break;
 	
+		case ".":
+
+			return elm.getElementalByClassssss(elm.replace(0));//어쩌구 저쩌구..
+			break;
+	
 		default:
+            return "어쩌구 저쩌구.."
+
 			break;
 	}
 }
