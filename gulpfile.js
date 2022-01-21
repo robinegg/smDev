@@ -28,7 +28,11 @@ function $(elm) {
 
 			case "":
 
+
 			return elm.getElementalName(elm);//어쩌구 저쩌구33..
+
+			return elm.getElementalName(elm);//어쩌구 저쩌구44..
+
 			break;
 
 
