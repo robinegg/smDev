@@ -32,6 +32,7 @@ function $(elm) {
 			return elm.getElementalName(elm);//어쩌구 저쩌구33..
 
 			return elm.getElementalName(elm);//어쩌구 저쩌구44..
+			return elm.getElementalName(elm);//어쩌구 이슈1..
 
 			break;
 
