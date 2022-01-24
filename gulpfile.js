@@ -29,6 +29,7 @@ function $(elm) {
 			case "":
 
 
+<<<<<<< HEAD
 			return elm.getElementalName(elm);//어쩌구 저쩌구33..
 
 			return elm.getElementalName(elm);//어쩌구 저쩌구44..
@@ -36,6 +37,8 @@ function $(elm) {
 
 			return elm.getElementalName(elm);//이슈234..adfadfafdadfa
 
+=======
+>>>>>>> f36343c (월요일 점심)
 			break;
 
 
