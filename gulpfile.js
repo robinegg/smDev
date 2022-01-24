@@ -30,12 +30,20 @@ function $(elm) {
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 25f92d44c98aa6099762a77ce35a601f98a32a84
 			return elm.getElementalName(elm);//어쩌구 저쩌구33..
 
 			return elm.getElementalName(elm);//어쩌구 저쩌구44..
 			return elm.getElementalName(elm);//어쩌구 이슈1..
 
 			return elm.getElementalName(elm);//이슈234..adfadfafdadfa
+<<<<<<< HEAD
+=======
+
+>>>>>>> 25f92d44c98aa6099762a77ce35a601f98a32a84
 
 =======
 >>>>>>> f36343c (월요일 점심)
